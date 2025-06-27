@@ -15,7 +15,7 @@ A real-time face mask detection system that uses a trained CNN model to detect w
 
 ## 🛠️ Tools & Technologies Used
 
-- **Python 3.x**
+- **Python**
 - **OpenCV** – Face detection and video streaming
 - **Keras + TensorFlow** – CNN model training
 - **Flask** – Web framework for live deployment
