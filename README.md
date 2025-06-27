@@ -27,6 +27,13 @@ A real-time face mask detection system that uses a trained CNN model to detect w
 ## 🔊 Alerts
 When a person is detected **without a mask**, an **audio alert** (`alert.mp3`) is played in the browser.
 
+
+## 🚀 Deployment
+
+This project is fully deployed locally using **Flask**, a lightweight Python web framework.
+
+---
+
 ## 🙌 Acknowledgements
 - [Kaggle Dataset](https://www.kaggle.com/)
 - Tutorials and guidance from various online resources and **ChatGPT**
